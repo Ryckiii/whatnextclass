@@ -1,0 +1,20 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.cache/
+
+# 本地测试与临时文件
+test-results/
+screenshots/
+*.local.html
